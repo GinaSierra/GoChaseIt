@@ -1,5 +1,7 @@
 # GoChaseIt
-Robot chases white colored balls in a Gazebo world environment
+Robot chases white colored balls in a Gazebo world environment.
+
+## Package Tree
 ```
 .GoChaseIt                          # Go Chase It Project
     ├── my_robot                       # my_robot package                   
