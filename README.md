@@ -1,7 +1,7 @@
 # GoChaseIt
 Robot chases white colored balls in a Gazebo world environment.
 
-## Prerequisites/Dependencies  
+## Dependencies  
 * Gazebo >= 7.0  
 * ROS Kinetic  
 * make >= 4.1(mac, linux), 3.81(Windows)
